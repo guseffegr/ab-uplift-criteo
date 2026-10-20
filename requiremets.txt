@@ -1,0 +1,10 @@
+duckdb
+numpy
+pandas
+scipy
+statsmodels
+matplotlib
+scikit-learn
+catboost
+scikit-uplift
+ipykernel
